@@ -12,8 +12,6 @@ All data is fetched from **Yahoo Finance** via the `yfinance` Python library. No
 
 ## Tickers
 
-24 tickers selected across 5 sectors plus a market benchmark, chosen to maximize analytical contrast — sector diversity, a range of volatility profiles, and recognizable companies that contextualize findings without requiring financial background.
-
 | Sector | Tickers |
 |--------|---------|
 | Technology | AAPL, MSFT, NVDA, GOOGL, META, AMD |
