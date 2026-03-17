@@ -37,6 +37,11 @@ These tickers were chosen for a diverse selection of sectors. The tickers and se
 
 **Maximum Drawdown** - the largest peak to trough drop experienced over the period. Represents the worst case loss for an investor who bought at the worst possible time.
 
+---
+
+## Running
+
+Simply run the `pipeline.py` file and the `stocks.db` file will be created.
 
 ---
 
