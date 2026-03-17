@@ -27,15 +27,15 @@ These tickers were chosen for a diverse selection of sectors. The tickers and se
 
 ## Key Concepts
 
-**Cumulative Return** — total percentage gain or loss from the start of the period to the end by sector
+**Cumulative Return** - total percentage gain or loss from the start of the period to the end by sector
 
-**Annualized Volatility** — standard deviation of daily returns scaled to a yearly figure
+**Annualized Volatility** - standard deviation of daily returns scaled to a yearly figure
 
 **Highest Growth** - finds the day of highest % growth by sector
 
-**Sharpe Ratio** — return divided by volatility, adjusted for the risk free rate. Measures how much return you earned per unit of risk taken. 
+**Sharpe Ratio** - return divided by volatility, adjusted for the risk free rate. Measures how much return you earned per unit of risk taken. 
 
-**Maximum Drawdown** — the largest peak to trough drop experienced over the period. Represents the worst case loss for an investor who bought at the worst possible time.
+**Maximum Drawdown** - the largest peak to trough drop experienced over the period. Represents the worst case loss for an investor who bought at the worst possible time.
 
 
 ---
