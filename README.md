@@ -12,6 +12,8 @@ All data is fetched from **Yahoo Finance** via the `yfinance` Python library. No
 
 ## Tickers
 
+These tickers were chosen for a diverse selection of sectors. The tickers and sectors can be edited in the `extract.py` file.
+
 | Sector | Tickers |
 |--------|---------|
 | Technology | AAPL, MSFT, NVDA, GOOGL, META, AMD |
